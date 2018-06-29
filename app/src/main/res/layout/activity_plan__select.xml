@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_plan__select"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="anurag.com.utrip1.Activity.Plan_SelectActivity"
+    android:orientation="vertical"
+    android:background="@drawable/back62">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:layout_marginTop="6dp"
+                android:orientation="vertical"
+                >
+
+    <TextView
+
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:id="@+id/textView15"
+        android:layout_marginTop="15dp"
+
+        android:background="@drawable/syp"
+        android:layout_gravity="center"
+
+        android:paddingBottom="20dp"
+        android:paddingTop="20dp" />
+
+
+
+        <TextView
+
+            android:layout_width="210dp"
+            android:layout_height="52dp"
+            android:id="@+id/build"
+            android:textSize="25sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:textAlignment="center"
+            android:textColor="@color/colorDarkWhite"
+            android:background="@drawable/byo"
+            android:paddingTop="5dp"
+            android:paddingBottom="10dp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+
+            android:layout_width="210dp"
+            android:layout_height="52dp"
+            android:id="@+id/first"
+            android:textSize="25sp"
+            android:layout_marginTop="17dp"
+            android:textAlignment="center"
+            android:textColor="@color/colorDarkWhite"
+            android:background="@drawable/tft1"
+            android:layout_gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+
+            android:layout_width="210dp"
+            android:layout_height="52dp"
+            android:id="@+id/budget"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:textColor="@color/colorDarkWhite"
+            android:background="@drawable/b"
+            android:layout_marginTop="17dp"
+            android:layout_gravity="center"
+            android:paddingTop="14dp"
+            android:paddingBottom="10dp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+
+            android:layout_width="210dp"
+            android:layout_height="52dp"
+            android:id="@+id/luxury"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:textColor="@color/colorDarkWhite"
+            android:background="@drawable/lt"
+            android:layout_gravity="center"
+            android:layout_marginTop="17dp"
+            android:paddingTop="10dp"
+
+            android:textStyle="normal|bold" />
+
+            </LinearLayout>
+
+    </RelativeLayout>
+
+        <include layout="@layout/layout_bottom_navigation_view"/>
+
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

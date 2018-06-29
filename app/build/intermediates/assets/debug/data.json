@@ -1,0 +1,125 @@
+{
+  "day": [
+
+    [
+      {
+        "place": "Hotel Goel Residency",
+        "lat": 28.7004061,
+        "lng": 77.1203884,
+        "rating": 4.3,
+        "type": "lodging",
+        "time1": 90,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png"
+      },
+      {
+        "place": "IDAC",
+        "lat": 28.710768,
+        "lng": 77.13760599999999,
+        "rating": 0.0,
+        "type": "point_of_interest",
+        "time1": 150,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png"
+      },
+      {
+        "place": "Derby Devils",
+        "lat": 28.72547420000001,
+        "lng": 77.1157327,
+        "rating": 4.6,
+        "type": "amusement_park",
+        "time1": 90,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      },
+      {
+        "place": "Cakes 'N' Bakes",
+        "lat": 28.7059198,
+        "lng": 77.12708549999999,
+        "rating": 4,
+        "type": "bakery",
+        "time1": 90,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      },
+      {
+        "place": "Jain Corner Art & Craft Material",
+        "lat": 28.7151978,
+        "lng": 77.12578789999999,
+        "rating": 4,
+        "type": "store",
+        "time1": 150,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      },
+      {
+        "place": "Rohini Sports Complex",
+        "lat": 28.7110027,
+        "lng": 77.1294802,
+        "rating": 4.3,
+        "type": "point_of_interest",
+        "time1": 120,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }
+    ],
+    [
+      {
+        "place": "Rohini Sports Complex",
+        "lat": 28.7110027,
+        "lng": 77.1294802,
+        "rating": 4.3,
+        "type": "point_of_interest",
+        "time1": 90,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      },
+      {
+        "place": "IDAC",
+        "lat": 28.710768,
+        "lng": 77.13760599999999,
+        "rating": "N.A",
+        "type": "point_of_interest",
+        "time1": 150,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png"
+      },
+      {
+        "place": "Derby Devils",
+        "lat": 28.72547420000001,
+        "lng": 77.1157327,
+        "rating": 4.6,
+        "type": "amusement_park",
+        "time1": 90,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      },
+      {
+        "place": "Cakes 'N' Bakes",
+        "lat": 28.7059198,
+        "lng": 77.12708549999999,
+        "rating": 4,
+        "type": "bakery",
+        "time1": 90,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png"
+      },
+      {
+        "place": "Jain Corner Art & Craft Material",
+        "lat": 28.7151978,
+        "lng": 77.12578789999999,
+        "rating": 4,
+        "type": "store",
+        "time1": 150,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png"
+      },
+      {
+        "place": "Rohini Sports Complex",
+        "lat": 28.7110027,
+        "lng": 77.1294802,
+        "rating": 4.3,
+        "type": "point_of_interest",
+        "time1": 120,
+        "photo_icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Feb 04 18:31:07 IST 2018
+1.base=/Users/rushilkhattar/workspace/Triplanit_app/UTrip1/app/build/intermediates/transforms/dex/release/0
+2.path=data.json
+0.baseType=DIRECTORY
+2.base=/Users/rushilkhattar/workspace/Triplanit_app/UTrip1/app/build/intermediates/assets/release
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/rushilkhattar/workspace/Triplanit_app/UTrip1/app/build/intermediates/transforms/dex/release/0
+2.baseType=DIRECTORY
+1.path=classes2.dex
